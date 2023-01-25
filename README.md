@@ -1,2 +1,2 @@
 # DiamondCircle
-Faculty project in Java Programming
+Faculty Project in Java Programming
